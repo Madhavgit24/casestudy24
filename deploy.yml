@@ -3,7 +3,7 @@
   tasks:
     - name: Pull latest code
       git:
-        repo: 'https://github.com/your-repo/quicksite.git'
+        repo: 'https://github.com/Madhavgit24/casestudy24.git'
         dest: '/var/www/quicksite'
     - name: Install dependencies
       shell: npm install
